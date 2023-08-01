@@ -14,6 +14,8 @@ Join me on this exciting journey of exploration and development. Together, let's
 
 - 🌱 I’m currently learning **Full Stack Development**
 
+- 📝 I regularly write articles on [https://medium.com/@dharshiniudayakumaran2002](https://medium.com/@dharshiniudayakumaran2002)
+
 - 💬 Ask me about **webpage Development**
 
 - 📫 How to reach me **dharshiniudayakumaran2002@gmail.com**<br><br>
